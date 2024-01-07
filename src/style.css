@@ -1,0 +1,31 @@
+.custom-modal {
+    background-color: #f0f0f0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+ 
+  .modal-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    position: relative;
+  }  
+  .custom-modal .btn-secondary {
+    background-color: #140c48;
+    color: #ffffff;
+    margin: "10px";
+    border: "1px solid #140C48";
+    width: "50%";
+    height: "40px";
+    border-radius: 4px;
+  }
+  .custom-modal .modal-title {
+    color: #140c48;
+    font-family: "cursive";
+    text-align: center;
+    font-weight: bold;
+  }
+  
+ 
